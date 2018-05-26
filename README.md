@@ -4,8 +4,8 @@
 
 ## DeepMind
 
-* [深度学习模型复现大脑网格细胞](https://mp.weixin.qq.com/s/i-udn1M4kiJpF8U7u5Uepg) | [论文地址](https://www.nature.com/articles/s41586-018-0102-6)
-* [通过元强化学习重新理解多巴胺](https://mp.weixin.qq.com/s/un8alqtc8yWYIhRiDw1S2Q) | [论文地址](https://www.biorxiv.org/node/92413)
+* [深度学习模型复现大脑网格细胞](https://mp.weixin.qq.com/s/i-udn1M4kiJpF8U7u5Uepg) | [论文](https://www.nature.com/articles/s41586-018-0102-6)
+* [通过元强化学习重新理解多巴胺](https://mp.weixin.qq.com/s/un8alqtc8yWYIhRiDw1S2Q) | [论文](https://www.biorxiv.org/node/92413)
 
 
 ## Kaggle
