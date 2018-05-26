@@ -8,6 +8,10 @@
 * [通过元强化学习重新理解多巴胺](https://mp.weixin.qq.com/s/un8alqtc8yWYIhRiDw1S2Q) | [论文地址](https://www.biorxiv.org/node/92413)
 
 
+## Kaggle
+
+[高能粒子跟踪挑战](https://www.kaggle.com/c/trackml-particle-identification) - High Energy Physics particle tracking in **CERN** detectors
+
 ## Others
 
 * [借助RNA成功实现动物间记忆转移](https://mp.weixin.qq.com/s/gOfBdIU6G3uwTldTA1Yh-g)
