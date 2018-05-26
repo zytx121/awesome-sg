@@ -10,7 +10,7 @@
 
 ## Kaggle
 
-[高能粒子跟踪挑战](https://www.kaggle.com/c/trackml-particle-identification) - High Energy Physics particle tracking in **CERN** detectors
+* [高能粒子跟踪挑战](https://www.kaggle.com/c/trackml-particle-identification) - High Energy Physics particle tracking in **CERN** detectors
 
 ## Others
 
