@@ -1,4 +1,4 @@
-# awesome-ml-sg
+# awesome-sg
 🐢 A collection of awesome Machine Learning papers, resources and shiny things about Steins;Gate.
 
 ## [Time-travel theories](http://steins-gate.wikia.com/wiki/Time-travel_theories)
